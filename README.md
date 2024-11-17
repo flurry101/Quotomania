@@ -1,34 +1,6 @@
-# Python Discord Bot Template
+# Discord.py Bot
 
 <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-
-
-<!--This repository is a template that everyone can use for the start of their Discord bot.
-
-When I first started creating my Discord bot it took me a while to get everything setup and working with cogs and more.
-I would've been happy if there were any template existing. However, there wasn't any existing template. That's why I
-decided to create my own template to let **you** guys create your Discord bot easily.
-
-Please note that this template is not supposed to be the best template, but a good template to start learning how
-discord.py works and to make your own bot easily.
-
-If you plan to use this template to make your own template or bot, you **have to**:
-
-- Keep the credits, and a link to this repository in all the files that contains my code
-- Keep the same license for unchanged code
-
-See [the license file](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/master/LICENSE.md) for more
-information, I reserve the right to take down any repository that does not meet these requirements.
-
-## Support
-
-Before requesting support, you should know that this template requires you to have at least a **basic knowledge** of
-Python and the library is made for **advanced users**. Do not use this template if you don't know the
-basics or some advanced topics such as OOP or async. [Here's](https://pythondiscord.com/pages/resources) a link for resources to learn python.
-
-If you need some help for something, do not hesitate to join my Discord server [here](https://discord.gg/mTBrXyWxAF).
-
-All the updates of the template are available [here](UPDATES.md). -->
 
 ## Disclaimer
 
