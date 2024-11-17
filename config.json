@@ -1,0 +1,6 @@
+{
+  "prefix": "/",
+  "discord_token": "your-bot-token-here",
+  "quotable_api_url": "https://api.quotable.io",
+  "log_channel_id": "log_channel_id_here"
+}
