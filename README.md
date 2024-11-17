@@ -76,7 +76,7 @@ python bot.py
 
 ## License
 
-This project is licensed under the [MIT License](License.md).
+This project is licensed under the [MIT License](License).
 
 ## Credits
 <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template">kkrypt0nn</a>
