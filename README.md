@@ -17,11 +17,6 @@ the `@app_commands.guilds()` decorator so that it gets registered instantly. Exa
 
 ## How to download it
 
-This repository is now a template, on the top left you can simply click on "**Use this template**" to create a GitHub
-repository based on this template.
-
-Alternatively you can do the following:
-
 - Clone/Download the repository
   - To clone it and get the updates you can definitely use the command
     `git clone`
@@ -77,7 +72,7 @@ python bot.py
 
 ## Built With
 
-- [Python 3.11.5](https://www.python.org/)
+- [Python 3.12.64](https://www.python.org/)
 
 ## License
 
