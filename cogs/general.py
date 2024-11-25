@@ -23,5 +23,10 @@ class General(commands.Cog):
         invite_url = discord.utils.oauth_url(self.bot.user.id)
         await ctx.send(f"Click here to invite Quotomania to your server: {invite_url}")
 
+   ''' @commands.hybrid_command(
+    name="command",
+    description="Command description",)
+    @app_commands.guilds(discord.Object(id=GUILD_ID)) # Place your guild ID here'''
+
 def setup(bot):
     bot.add_cog(General(bot))
